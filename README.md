@@ -5,8 +5,8 @@ Blender 3.4 video proxy settings:
 Preview > N > View settings > Proxy Render Size = 50%
 and
 checked Use Proxies
-=> for all video stripes/files you will get a proxy file in the selected size of 50%
-=> new added video stripes/files will only get a proxy in this size => should be set at the beginning
+=> for all video strips/files you will get a proxy file in the selected size of 50%
+=> new added video strips/files will only get a proxy in this size => should be set at the beginning
 
 Sequencer > N > Proxy > checked Strip Proxy & Timecode
 => you see all proxy resolutions for this video stripe/file
