@@ -9,7 +9,7 @@ checked Use Proxies
 => new added video strips/files will only get a proxy in this size => should be set at the beginning
 
 Sequencer > N > Proxy > checked Strip Proxy & Timecode
-=> you see all proxy resolutions for this video stripe/file
+=> you see all proxy resolutions for this video strip/file
 => Quality is only for pictures
 
 Be aware that even if you use the "Set selected strip proxies" for chaning resolution and overwrite, the old resolutions won't be deleted, even if they are deselected.
