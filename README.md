@@ -35,3 +35,6 @@ Audio = AAC, 44.1kHz or 48kHz, 192bit or MP3, 44.1kHz or 48kHz, 256bit<br>
 no H.265 support so far...
 
 [Blender Manual](https://docs.blender.org/manual/en/latest/video_editing/introduction.html)
+
+External links disclaimer:<br>
+I'm not responsible for the content of external websites.<br>
