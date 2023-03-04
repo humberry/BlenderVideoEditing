@@ -33,3 +33,5 @@ Video = H.264 (high quality), 1920x1080, 50fps or 60fps, Good (faster) or Slow (
 Audio = AAC, 44.1kHz or 48kHz, 192bit or MP3, 44.1kHz or 48kHz, 256bit<br>
 
 no H.265 support so far...
+
+[Blender Manual](https://docs.blender.org/manual/en/latest/video_editing/introduction.html)
