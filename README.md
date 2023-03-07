@@ -36,5 +36,7 @@ no H.265 support so far...
 
 [Blender Manual](https://docs.blender.org/manual/en/latest/video_editing/introduction.html)
 
+For basic H.265 trimming or concatenation, try Avidemux. Cuts on I-Frames (<< / >>) with no reencoding.
+
 External links disclaimer:<br>
 I'm not responsible for the content of external websites.<br>
